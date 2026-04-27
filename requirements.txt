@@ -1,0 +1,8 @@
+Flask
+matplotlib
+pandas
+python-dotenv
+requests
+scikit-learn
+textblob
+yfinance
